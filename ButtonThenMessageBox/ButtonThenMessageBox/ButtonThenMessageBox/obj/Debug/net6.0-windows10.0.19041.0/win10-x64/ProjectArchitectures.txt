@@ -1,0 +1,1 @@
+C:\Users\TOK\Source\Repos\TK006\dotNetMaui\ButtonThenMessageBox\ButtonThenMessageBox\ButtonThenMessageBox\ButtonThenMessageBox.csproj;x64

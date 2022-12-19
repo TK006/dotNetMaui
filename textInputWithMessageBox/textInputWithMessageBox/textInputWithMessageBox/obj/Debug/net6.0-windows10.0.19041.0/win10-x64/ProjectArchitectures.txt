@@ -1,0 +1,1 @@
+C:\Users\TOK\Documents\Cooding\dotNetMaui\textInputWithMessageBox\textInputWithMessageBox\textInputWithMessageBox\textInputWithMessageBox.csproj;x64
